@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "artistName": "test1",
+      "songName": "test1",
+      "entryDate": "02/03/2023",
+      "id": 1,
+      "votes": 15
+    },
+    {
+      "artistName": "test2",
+      "songName": "test2",
+      "entryDate": "03/03/2023",
+      "id": 2,
+      "votes": 16
+    },
+    {
+      "artistName": "test3",
+      "songName": "test3",
+      "entryDate": "04/03/2023",
+      "id": 3,
+      "votes": 10
+    },
+    {
+      "artistName": "test4",
+      "songName": "test4",
+      "entryDate": "06/03/2023",
+      "id": 4,
+      "votes": 13
+    }
+  ]
+}
